@@ -42,3 +42,8 @@ class SwaggerDocConfig {
         return ApiInfo.DEFAULT
     }
 }
+
+fun main() {
+    println("Só de brinks #1")
+    println("Só de brinks #2")
+}
